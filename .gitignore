@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Library config file (for internal tests)
+.argo
+
 # C extensions
 *.so
 
