@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "didup_api"
+version = "0.1.0"
+description = "A python library for Argo DidUP API"
+authors = [{name = "GiovsTechs", email = "me@giovstechs.it"}]
+license = {text = "GPLv3"}
